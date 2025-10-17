@@ -51,9 +51,9 @@ Deliver a comprehensive analysis of Blinkit sales data through Excel dashboards,
 
 ---
 
-## 🖼️ **Sample Visualizations**
+## 🖼️ **Dashboard Screenshot**
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](https://github.com/RizwanHussain377/Blinkit-Analysis_Excel-Project/blob/main/Blinkit%20Grocery%20Screenshot.png)
 ---
 
 ## ⭐ **Why Choose This Project?**
